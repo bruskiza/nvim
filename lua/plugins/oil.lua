@@ -1,3 +1,6 @@
+-- File browser.
+-- Used with configs.keymap to navigate.
+-- Envoke with: :Oil --float (floating browser window)
 return {
   'stevearc/oil.nvim',
   ---@module 'oil'
